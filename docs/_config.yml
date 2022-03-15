@@ -21,7 +21,8 @@
 title: IQ WiFi APP
 email: IQWiFiAppSupport@jci.com
 description: >- # this means to ignore newlines until "baseurl:"
-  IQ WiFi APP.
+  For IQ WiFi6 tech support related issues, please contact your dealer.
+  For any app specific questions or feedback please send an email to IQWiFiAppSupport@jci.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johnsoncontrols
